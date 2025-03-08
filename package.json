@@ -1,0 +1,19 @@
+{
+  "name": "cari-geocode-kabkota",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "geografis": "^1.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
